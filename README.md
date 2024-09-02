@@ -1,3 +1,9 @@
+### start steps
+- clone to local dir
+- make sure docker engine works
+- edit all the config files in ./devcontainer(python version etc.)
+- reopen in container
+
 ### install poetry
 
 ```
